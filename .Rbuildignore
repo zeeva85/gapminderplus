@@ -1,0 +1,5 @@
+^LICENSE\.md$
+^README\.Rmd$
+^data-raw$
+^gapminderplus\.Rproj$
+^\.Rproj\.user$
