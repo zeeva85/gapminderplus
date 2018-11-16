@@ -16,7 +16,7 @@ You can install powers from github with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("STAT545-UBC-students/hw07-zeeva85/gapminderplus")
+devtools::install_github("zeeva85/gapminderplus")
 ```
 
 Example
