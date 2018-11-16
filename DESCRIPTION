@@ -1,0 +1,28 @@
+Package: gapminderplus
+Title: Additional data from gapminder
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Seevasant",
+           family = "Indran",
+           role = c("aut", "cre"),
+           email = "zeeva85@gmail.com")
+Description: An excerpt of the data available at Gapminder.org. For each of 133
+    countries, the package provides values for life expectancy, GDP per capita,
+    and population, and mean school in years for men aged 25-34 years old, from 1972 to 2007 for the gapminder2 dataset. 
+    The gapminder3 dataset consist of 131 countries, consisting the same values as gapminder2 but with the addition of
+    infant life expectancies.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat,
+    gapminderplus
+Imports: 
+    dplyr,
+    tidyr,
+    rlang
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.0.9000
+Depends: R (>= 2.10)
+
+

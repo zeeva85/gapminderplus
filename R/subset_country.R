@@ -23,7 +23,7 @@ subset_country <- function() {
 
   x <- scan(what = "character")  #  The prompt that request the package names
 
-  results <- dplyr::filter(gapminderplus::gapminder2, gapminder2$country %in% x)
+results <- dplyr::filter(gapminderplus::gapminder2, gapminder2$country %in% x)
   return(results)
 
 }
