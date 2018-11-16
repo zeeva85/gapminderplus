@@ -12,7 +12,7 @@ This is an R package that has extended the gapminder dataset. This package also 
 Installation
 ------------
 
-You can install powers from github with:
+You can install gapminderplus from github with:
 
 ``` r
 # install.packages("devtools")
