@@ -1,5 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+gapminderplus <img src="man/figures/logo.png" align="right" height=140/>
+
 [![Build Status](https://travis-ci.org/vincenzocoia/powers.svg?branch=master)](https://travis-ci.org/vincenzocoia/powers)
 
 **Note**: This R package is not mean to be "serious". It's just to show you are kinda cool and you can develop simple packages :sunglasses:.
