@@ -1,6 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-gapminderplus <img src="man/figures/logo.png" align="right" height=140/>
+<img src="man/figures/logo.png" align="right" height=140/>
 
 [![Build Status](https://travis-ci.org/vincenzocoia/powers.svg?branch=master)](https://travis-ci.org/vincenzocoia/powers)
 
