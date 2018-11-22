@@ -9,9 +9,6 @@ subset_country()
 
 subset_country2()
 }
-\arguments{
-\item{Provide}{the country or countries without " " in the console after executing \code{subset_country()}.}
-}
 \value{
 A list of country that is subseted from the gapminder2 dataset for subset_country
 
@@ -19,6 +16,7 @@ A list of country that is subseted from the gapminder2 dataset for subset_countr
 }
 \description{
 Type the country or countries in the console to subset the gapminder dataset more interactively.
+Provide the country or countries without " " in the console after executing \code{subset_country()}.
 }
 \details{
 Provide a list in the console to subset the gapminder dataset more interactively.

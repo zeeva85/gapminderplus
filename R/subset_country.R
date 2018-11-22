@@ -2,7 +2,7 @@
 #'
 #' @description
 #' Type the country or countries in the console to subset the gapminder dataset more interactively.
-#' @param Provide the country or countries without " " in the console after executing `subset_country()`.
+#' Provide the country or countries without " " in the console after executing `subset_country()`.
 #'
 #' @return A list of country that is subseted from the gapminder2 dataset for subset_country
 #' @return A list of country that is subseted from the gapminder2 dataset for subset_country2
